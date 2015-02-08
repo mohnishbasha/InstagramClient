@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/classes-e8b64dc5cfa88e2e1b2984cfb33bf6a5b1b020d3.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-3dfc2801563bd9a4407ebee224a5335970788682.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-6d4ae59104f5c8fe36822ab723f4e6db49d1d8c0.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cc2b0a465ca3d43ba7a1c016c84fb25abe6e6769.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/classes-f3457b103d48d03a1573b51b9bb702a2336ada43.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/InstagramClient/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-320ab269f45eaacf2894751219e2d18e8cbfcfba.jar" />
+    </item>
+
+</items>
